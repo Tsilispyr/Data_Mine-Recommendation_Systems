@@ -2,8 +2,8 @@
 
 # SFO Air Traffic Classification - Data Mining and Recommender Systems
 
-Project: Εξόρυξη Δεδομένων και Συστήματα Συστάσεων (Data Mining and Recommender Systems), 2025-2026
-Title: Πρόβλεψη Επιβατικής Κίνησης, 5-Class Classification ("Forecasting Airport Passenger Traffic Volume")
+## Project: Εξόρυξη Δεδομένων και Συστήματα Συστάσεων (Data Mining and Recommender Systems), 2025-2026
+## Title: Πρόβλεψη Επιβατικής Κίνησης, 5-Class Classification ("Forecasting Airport Passenger Traffic Volume")
 
 
 ## Contents
